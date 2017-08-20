@@ -1,6 +1,7 @@
 # CarND-Controls-MPC
 Self-Driving Car Engineer Nanodegree Program
 
+### MPC controller in action
 [![MPC controller in action](images/video_image.png)](https://youtu.be/EP-hJTyfKNs)
 ---
 
